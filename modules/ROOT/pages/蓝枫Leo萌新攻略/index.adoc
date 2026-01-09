@@ -1,11 +1,15 @@
 = 修仙模拟器保姆级萌新攻略
 
-视频地址(B站UP主蓝风Leo)： https://space.bilibili.com/1245458627/lists/6914961
-
+* 视频地址(B站UP主蓝风Leo)： https://space.bilibili.com/1245458627/lists/6914961[window=_blank]
 * 游戏版本：1.268
 * 游戏时间：2025-12-08
+* 参考贴吧: https://tieba.baidu.com/p/9601692365?see_lz=1[【新人入门】草履虫也能学会的九劫正道玩法,window=_blank]
+* 参考贴吧: https://tieba.baidu.com/p/9827101271?see_lz=1[【草履虫2.0】九劫体修战胜80妖兽与蛟龙,window=_blank]
+* 参考贴吧: https://tieba.baidu.com/p/10211866607?see_lz=1[【草履虫1.1】仙修细节讲解,window=_blank]
+* 参考贴吧: https://tieba.baidu.com/p/10282580824?see_lz=1[【草履虫3.0】神修如何修？,window=_blank]
 
 == 章节总结
 
 * xref:蓝枫Leo萌新攻略/1.adoc[]
 * xref:蓝枫Leo萌新攻略/2.adoc[]
+* xref:蓝枫Leo萌新攻略/3.adoc[]

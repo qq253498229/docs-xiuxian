@@ -17,9 +17,12 @@
 
 == 章节总结
 
-
 . xref:草履虫攻略/why.adoc[为什么选择体修开局]
 . xref:草履虫攻略/summary.adoc[]
+. xref:草履虫攻略/summary1.adoc[]
+
+== 章节
+
 . xref:草履虫攻略/1.adoc[mod及开局设置]
 . xref:草履虫攻略/2.adoc[开局流程]
 . xref:草履虫攻略/3.adoc[获取符修功法]

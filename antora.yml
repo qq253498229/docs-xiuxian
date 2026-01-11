@@ -12,3 +12,4 @@ asciidoc:
     toc-title: 目录
     toclevels: 6
     figure-caption: 图片@
+    table-caption: 表格@

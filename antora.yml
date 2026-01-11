@@ -11,3 +11,4 @@ asciidoc:
     sectnums: 6
     toc-title: 目录
     toclevels: 6
+    figure-caption: 图片@

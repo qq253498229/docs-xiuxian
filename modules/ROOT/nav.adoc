@@ -1,8 +1,13 @@
 * xref:蓝枫Leo萌新攻略/index.adoc[蓝风Leo萌新攻略]
+* xref:草履虫攻略/index.adoc[草履虫九劫正道]
 * xref:开局结一品金丹.adoc[开局结一品金丹]
+* xref:境界.adoc[境界]
+* xref:功法.adoc[功法]
 * 入坑攻略
 ** xref:入坑攻略/前期关键因素.adoc[]
 ** xref:入坑攻略/守家大哥培养.adoc[]
 * 旧版记录
 ** xref:旧版记录.adoc[飞羽流程]
 ** xref:丹药成灵.adoc[]
+* 资料
+** link:https://wiki.biligame.com/acs/%E9%A6%96%E9%A1%B5[B站Wiki,window=_blank]

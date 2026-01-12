@@ -1,5 +1,8 @@
 * xref:蓝枫Leo萌新攻略/index.adoc[蓝风Leo萌新攻略]
 * xref:草履虫攻略/index.adoc[草履虫九劫正道]
+** xref:草履虫攻略/why.adoc[为什么选择体修开局]
+** xref:草履虫攻略/summary.adoc[]
+** xref:草履虫攻略/summary1.adoc[]
 * xref:开局结一品金丹.adoc[开局结一品金丹]
 * xref:境界.adoc[境界]
 * xref:功法.adoc[功法]

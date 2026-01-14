@@ -7,6 +7,8 @@
 * xref:境界.adoc[境界]
 * xref:功法.adoc[功法]
 * xref:符箓.adoc[符箓]
+* xref:历练.adoc[历练]
+* xref:五行.adoc[历练]
 * xref:动物思维.adoc[动物思维]
 * 入坑攻略
 ** xref:入坑攻略/前期关键因素.adoc[]

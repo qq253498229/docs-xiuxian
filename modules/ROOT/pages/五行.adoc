@@ -7,4 +7,4 @@ image::季节五行表.png[]
 image::时辰五行表.png[]
 
 .天气五行表
-image::image-2026-01-14-15-25-43-009.png[]
+image::天气五行表.png[]
